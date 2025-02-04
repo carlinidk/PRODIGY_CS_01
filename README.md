@@ -1,4 +1,4 @@
-Caesar Cipher Program
+Caesar Cipher Program:
 This program encrypts and decrypts text using the Caesar Cipher algorithm, a simple substitution cipher that shifts characters in a message by a specified amount.
 
 Features:
